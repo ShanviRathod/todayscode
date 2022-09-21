@@ -1,0 +1,3 @@
+# todayscode
+loops exercise
+List 
